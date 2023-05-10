@@ -1,4 +1,4 @@
-package Multithreading.ThreadPool;
+package Multithreading.ThreadPool.MakeThreadPool;
 
 public class MyRunnable implements Runnable{
     @Override
